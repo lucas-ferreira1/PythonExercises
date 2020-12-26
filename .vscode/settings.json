@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "C:\\Python38\\python.exe",
+    "code-runner.executorMap":{
+        "python": "python -u",
+       
+    },
+    "code-runner.ignoreSelection": false,
+    "code-runner.runInTerminal": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.testing.unittestEnabled": true,
+    
+
+
+
+}
